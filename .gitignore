@@ -4,3 +4,8 @@ build/
 .idea/
 *.iml
 local.properties
+.kotlin/
+*.apk
+*.aab
+*.jks
+*.keystore
